@@ -73,3 +73,5 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+notification-5327a-firebase-adminsdk-wf2sf-2d47a84c25.json
